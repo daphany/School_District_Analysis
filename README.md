@@ -27,7 +27,7 @@ Thomas High School 9th graders' math and reading scores were voided.
 <img src="Resources/Math_Scores_By_Grade.PNG" width="300">
 
 <img src="Resources/Updated_Math_Scores_By_Grade.PNG" width="300">
-<img src="Resources/Reading_Scores_By_Grade" width="300">
+<img src="Resources/Reading_Scores_By_Grade.PNG" width="300">
 
 <img src="Resources/Updated_Reading_Scores_By_Grade.PNG" width="300">
 
