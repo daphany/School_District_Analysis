@@ -43,7 +43,7 @@ Only the scores from Medium bin was affected since Thomas High School is include
 
 <img src="Resources/Scores_By_School_Size.PNG" width="600">
 
-<img src="Resources/Updated_Scores_By_School_Size.PNG" width="3600">
+<img src="Resources/Updated_Scores_By_School_Size.PNG" width="600">
 
 
 - Scores by school type: \
